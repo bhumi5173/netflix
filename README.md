@@ -47,6 +47,9 @@ Instructions on how to use the application.
 - **Search:** Use the search bar to find specific titles.
 - **View Details:** Click on a movie/show to view details.
 
+- ![Screenshot (14)](https://github.com/user-attachments/assets/42174ad2-61cb-40b0-87e8-390a4ac4530a)
+
+
 License
 ## License
 
